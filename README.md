@@ -1,7 +1,7 @@
 # Franck-Hertz-Experiment
 Here are included the graphs of the Franck Hertz experiment and the corresponding codes to elaborate them.
 
-The Franck-Hertz experiment is a classic physics experiment that was conducted by James Franck and Gustav Hertz in 1914. The experiment was designed to provide evidence for the existence of discrete energy levels in atoms.
+The Franck-Hertz experiment is a classic physics experiment that was conducted by James Franck and Gustav Hertz in 1914. The experiment was designed to provide evidence for the existence of discrete energy levels in atoms .
 
 In the Franck-Hertz experiment, a tube filled with low-pressure mercury vapor is placed between two electrodes. One of the electrodes is heated to a high temperature, which causes electrons to be emitted and travel towards the other electrode. The distance between the electrodes is carefully controlled so that the electrons have just enough energy to overcome the ionization energy of the mercury atoms and cause them to emit light.
 
